@@ -18,5 +18,7 @@ Alumno de Informática de la Universidad de Jaén.
 
 * **URL de Trello**:https://trello.com/b/gKlHnRZt/practica-1
 
-* **Captura**
-<img src='/Captura-1.png' width='400'>
+    Captura
+<img src='/Captura-1.png' width='500'>
+
+* **URL de la GitHub**:https://github.com/gsc00008
