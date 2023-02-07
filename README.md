@@ -26,4 +26,8 @@ Alumno de Informática de la Universidad de Jaén.
 * **URL de la GitHub**:https://github.com/gsc00008
     
     Captura
-<img src='/Captura-2.png' width='500'>  
+<img src='/Captura-2.png    ' width='500'>
+
+
+    Captura Final de Trello
+<img src='/Captura-3.png' width='500'>
