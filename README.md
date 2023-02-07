@@ -13,3 +13,10 @@ Alumno de Informática de la Universidad de Jaén.
 * **Web**: https://gswebdesigner.es
 * **GitHub**: https://github.com/gsc00008
 * **Trello**: https://trello.com/u/gonzalosanchezcalvente
+
+### Ejercicio
+
+* **URL de Trello**:https://trello.com/b/gKlHnRZt/practica-1
+
+* **Captura**
+<img src='/Captura-1.png' width='400'>
